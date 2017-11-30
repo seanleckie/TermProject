@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CCPortalMaster.master.cs" Inherits="Project4.CCPortalMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="Content/bootstrap.min.css" />
+    <link rel="stylesheet" href="Content/bootstrap-theme.min.css" />
+    <link href="Content/bootstrap-datetimepicker.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <style>
+        .myTableClass tr th {
+            padding: 5px;
+            text-align:center
+        }
+
+        .myTableClass tr td {
+            padding: 5px;
+            text-align:center
+        }
+    </style>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container-fluid">
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+
+
+        </div>
+
+    </form>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="Scripts/moment-with-locales.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/bootstrap-datetimepicker.min.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#datePicker').datetimepicker({
+                viewMode: 'years',
+                format: 'MM/YYYY'
+
+            });
+        });
+    </script>
+</body>
+</html>

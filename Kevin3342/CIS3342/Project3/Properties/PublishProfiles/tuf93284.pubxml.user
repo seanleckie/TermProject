@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>X:\Project3</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="add_reservation.aspx">
+      <publishTime>10/27/2017 16:22:30</publishTime>
+    </File>
+    <File Include="add_restaurant.aspx">
+      <publishTime>10/27/2017 16:38:25</publishTime>
+    </File>
+    <File Include="add_review.aspx">
+      <publishTime>10/27/2017 16:47:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>10/20/2017 12:15:12</publishTime>
+    </File>
+    <File Include="bin/Project3.dll">
+      <publishTime>10/27/2017 17:37:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>10/20/2017 12:15:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>10/20/2017 12:15:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>10/20/2017 12:15:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>10/20/2017 12:15:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>10/20/2017 12:15:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>10/20/2017 12:15:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>10/20/2017 12:15:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>10/20/2017 12:15:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>10/20/2017 12:15:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>10/20/2017 12:15:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>10/20/2017 12:15:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>10/20/2017 12:15:14</publishTime>
+    </File>
+    <File Include="bin/Utilities.dll">
+      <publishTime>10/27/2017 17:37:37</publishTime>
+    </File>
+    <File Include="Content/bootstrap-datetimepicker.css">
+      <publishTime>10/26/2017 19:06:10</publishTime>
+    </File>
+    <File Include="Content/bootstrap-datetimepicker.min.css">
+      <publishTime>10/26/2017 19:06:10</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>10/26/2017 18:56:52</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>10/26/2017 18:56:52</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>10/26/2017 18:56:52</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>10/26/2017 18:56:52</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>10/26/2017 18:56:52</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>10/26/2017 18:56:52</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>10/27/2017 11:51:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>10/26/2017 18:56:52</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>10/26/2017 18:56:52</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>10/26/2017 18:56:52</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>10/26/2017 18:56:52</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>10/26/2017 18:56:52</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>10/26/2017 18:56:52</publishTime>
+    </File>
+    <File Include="KelpMaster.Master">
+      <publishTime>10/27/2017 17:06:49</publishTime>
+    </File>
+    <File Include="kelp_main.aspx">
+      <publishTime>10/27/2017 16:13:37</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>10/27/2017 12:02:58</publishTime>
+    </File>
+    <File Include="manage_reservations.aspx">
+      <publishTime>10/27/2017 16:53:53</publishTime>
+    </File>
+    <File Include="manage_restaurants.aspx">
+      <publishTime>10/27/2017 16:58:17</publishTime>
+    </File>
+    <File Include="my_reservations.aspx">
+      <publishTime>10/27/2017 17:03:28</publishTime>
+    </File>
+    <File Include="my_reviews.aspx">
+      <publishTime>10/27/2017 17:07:17</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/26/2017 19:06:10</publishTime>
+    </File>
+    <File Include="restaurant_details.aspx">
+      <publishTime>10/27/2017 16:33:58</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap-datetimepicker.js">
+      <publishTime>10/26/2017 19:06:10</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap-datetimepicker.min.js">
+      <publishTime>10/26/2017 19:06:10</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>10/26/2017 18:56:52</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>10/26/2017 18:56:52</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>10/26/2017 18:56:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>10/26/2017 18:56:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>10/26/2017 18:56:46</publishTime>
+    </File>
+    <File Include="Scripts/moment-with-locales.js">
+      <publishTime>10/26/2017 19:06:10</publishTime>
+    </File>
+    <File Include="Scripts/moment-with-locales.min.js">
+      <publishTime>10/26/2017 19:06:10</publishTime>
+    </File>
+    <File Include="Scripts/moment.js">
+      <publishTime>10/26/2017 19:06:10</publishTime>
+    </File>
+    <File Include="Scripts/moment.min.js">
+      <publishTime>10/26/2017 19:06:10</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/27/2017 17:37:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

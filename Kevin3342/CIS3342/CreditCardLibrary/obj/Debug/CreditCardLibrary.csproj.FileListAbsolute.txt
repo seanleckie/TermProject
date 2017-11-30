@@ -1,0 +1,20 @@
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\CreditCardLibrary\bin\Debug\CreditCardLibrary.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\CreditCardLibrary\bin\Debug\CreditCardLibrary.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\CreditCardLibrary\obj\Debug\CreditCardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\CreditCardLibrary\obj\Debug\CreditCardLibrary.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\CreditCardLibrary\obj\Debug\CreditCardLibrary.pdb
+C:\Users\tuf93284\Downloads\CIS3342\CreditCardLibrary\bin\Debug\CreditCardLibrary.dll
+C:\Users\tuf93284\Downloads\CIS3342\CreditCardLibrary\bin\Debug\CreditCardLibrary.pdb
+C:\Users\tuf93284\Downloads\CIS3342\CreditCardLibrary\obj\Debug\CreditCardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\tuf93284\Downloads\CIS3342\CreditCardLibrary\obj\Debug\CreditCardLibrary.dll
+C:\Users\tuf93284\Downloads\CIS3342\CreditCardLibrary\obj\Debug\CreditCardLibrary.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\CreditCardLibrary\bin\Debug\CreditCardLibrary.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\CreditCardLibrary\bin\Debug\CreditCardLibrary.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\CreditCardLibrary\obj\Debug\CreditCardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\CreditCardLibrary\obj\Debug\CreditCardLibrary.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\CreditCardLibrary\obj\Debug\CreditCardLibrary.pdb
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\CreditCardLibrary\bin\Debug\CreditCardLibrary.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\CreditCardLibrary\bin\Debug\CreditCardLibrary.pdb
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\CreditCardLibrary\obj\Debug\CreditCardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\CreditCardLibrary\obj\Debug\CreditCardLibrary.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\CreditCardLibrary\obj\Debug\CreditCardLibrary.pdb

@@ -1,0 +1,7 @@
+G:\CIS3342\CIS3342(Project2)\CIS3342\CarLibrary\bin\Release\CarLibrary.dll
+G:\CIS3342\CIS3342(Project2)\CIS3342\CarLibrary\bin\Release\CarLibrary.pdb
+G:\CIS3342\CIS3342(Project2)\CIS3342\CarLibrary\bin\Release\Utilities.dll
+G:\CIS3342\CIS3342(Project2)\CIS3342\CarLibrary\bin\Release\Utilities.pdb
+G:\CIS3342\CIS3342(Project2)\CIS3342\CarLibrary\obj\Release\CarLibrary.csprojResolveAssemblyReference.cache
+G:\CIS3342\CIS3342(Project2)\CIS3342\CarLibrary\obj\Release\CarLibrary.dll
+G:\CIS3342\CIS3342(Project2)\CIS3342\CarLibrary\obj\Release\CarLibrary.pdb
