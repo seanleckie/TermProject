@@ -22,6 +22,7 @@ namespace Services
         int API_KEY = 999;
         DBConnect objDB = new DBConnect();
         Email email = new Email();
+        int i = 0;
 
 
         [WebMethod]
