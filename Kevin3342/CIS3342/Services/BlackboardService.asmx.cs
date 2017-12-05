@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Services;
-using Utilities;
 using System.Data;
 using System.Data.SqlClient;
+using Utilities;
 
 namespace Services
 {
@@ -22,20 +22,18 @@ namespace Services
         int API_KEY = 999;
         DBConnect objDB = new DBConnect();
         Email email = new Email();
-        int i = 0;
-
 
         [WebMethod]
-        public Boolean addCourse(string name, string prof, int apiKey)
+        public Boolean addCourse(string name, int builderID, int apiKey)
         {
 
             if (apiKey == API_KEY)
             {
                 SqlCommand objCommand = new SqlCommand();
                 objCommand.CommandType = CommandType.StoredProcedure;
-                objCommand.CommandText = "TermAddCourse";
+                objCommand.CommandText = "BBAddCourse";
                 objCommand.Parameters.AddWithValue("@courseName", name);
-                objCommand.Parameters.AddWithValue("@courseProfessor", prof);
+                objCommand.Parameters.AddWithValue("@userID", builderID);
 
                 if (objDB.DoUpdateUsingCmdObj(objCommand) != -1)
                 {
@@ -56,6 +54,24 @@ namespace Services
                 SqlCommand objCommand = new SqlCommand();
                 objCommand.CommandType = CommandType.StoredProcedure;
                 objCommand.CommandText = "TermGetCourses";
+                ds = objDB.GetDataSetUsingCmdObj(objCommand);
+
+            }
+
+            return ds;
+        }
+
+        [WebMethod]
+        public DataSet getBuilders(int apiKey)
+        {
+            DataSet ds = null;
+
+            if (apiKey == API_KEY)
+            {
+                SqlCommand objCommand = new SqlCommand();
+                objCommand.CommandType = CommandType.StoredProcedure;
+                objCommand.CommandText = "BBGetBuilders";
+                objCommand.Parameters.AddWithValue("@userType", "Admin");
                 ds = objDB.GetDataSetUsingCmdObj(objCommand);
 
             }
@@ -196,6 +212,25 @@ namespace Services
             }
 
             return ds;
+        }
+
+        [WebMethod]
+        public string getBuilderID(string builderName, int apiKey)
+        {
+            DataSet ds = null;
+            int i = 0;
+            string z = "";
+
+            if (apiKey == API_KEY)
+            {
+                SqlCommand objCommand = new SqlCommand();
+                objCommand.CommandType = CommandType.StoredProcedure;
+                objCommand.CommandText = "BBGetBuilderID";
+                objCommand.Parameters.AddWithValue("@userName", builderName);
+                ds = objDB.GetDataSetUsingCmdObj(objCommand);
+                z = ds.Tables[0].Rows[0].ToString();
+            }
+            return z;
         }
 
         [WebMethod]

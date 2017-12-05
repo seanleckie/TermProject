@@ -4,7 +4,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     
     <h4>Manage Courses</h4>
-   <%-- panel to add a new course--%>
+    <%-- insert list of builders from database--%>
     <div class="jumbotron">
         <b>Add New Course</b><br /><br />
             Course Name:<br />
@@ -13,15 +13,18 @@
             <br /><br />
 
             Select Instructor:<br />
-            <asp:DropDownList ID="ddlSelectInstructor" runat="server" CssClass="form-control" Width="150px">
+            <asp:DropDownList ID="ddlSelectInstructor" runat="server" CssClass="form-control" Width="150px" OnSelectedIndexChanged="ddlSelectInstructor_SelectedIndexChanged">
                <%-- insert list of builders from database--%>
             </asp:DropDownList>          
             <asp:RequiredFieldValidator ID="validInstructor" runat="server" ControlToValidate="ddlSelectInstructor" ForeColor="#CC0000" ErrorMessage="*Required"></asp:RequiredFieldValidator>
         <br /><br />
-            <asp:Button ID="btnAddCourse" runat="server" CssClass="btn btn-primary" Text="Add Course" />     
+            <asp:Button ID="btnAddCourse" runat="server" CssClass="btn btn-primary" Text="Add Course" OnClick="btnAddCourse_Click" />     
+       
+    &nbsp;&nbsp;&nbsp;
+        <asp:Label ID="lblTag" runat="server"></asp:Label>
        
     </div>
-   <%-- gridview for all courses, can delete and edit from here--%>
+    <%-- gridview for all courses, can delete and edit from here--%>
     <div class="jumbotron">
         <b>All Courses</b><br /><br />
         <asp:GridView ID="gvCourses" runat="server">

@@ -162,6 +162,10 @@
       <Project>{4dc092a0-bd68-4d03-a3bf-b00ee185a4e2}</Project>
       <Name>EncryptionLibrary</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Services\Services.csproj">
+      <Project>{345df14e-0911-45c7-a0f4-a8d3eb10da0c}</Project>
+      <Name>Services</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Utilities\Utilities.csproj">
       <Project>{70429999-f1b3-42a0-b063-a9bd432964cd}</Project>
       <Name>Utilities</Name>
