@@ -14,8 +14,14 @@ namespace TermProjectPart1
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            Page.Title = "Manage Courses";
-            populateDdlSelectInstructor();
+            if (!IsPostBack)
+            {
+                Page.Title = "Manage Courses";
+                populateDdlSelectInstructor();
+
+                gvCourses.DataSource = pxy.getCourses(apikey);
+                gvCourses.DataBind();
+            }
 
         }
 
@@ -26,10 +32,6 @@ namespace TermProjectPart1
             Response.Redirect("Main.aspx?accountType=" + accountType + "&userID=" + userID);
         }
 
-        protected void ddlSelectInstructor_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            lblTag.Text = pxy.getBuilderID(ddlSelectInstructor.SelectedItem.ToString(), apikey);
-        }
 
         private void populateDdlSelectInstructor()
         {
@@ -37,21 +39,24 @@ namespace TermProjectPart1
             ddlSelectInstructor.DataTextField = "userName";
             ddlSelectInstructor.DataValueField = "userID";
             ddlSelectInstructor.DataBind();
-            
         }
 
         protected void btnAddCourse_Click(object sender, EventArgs e)
         {
-            /*lblTag.Text = "Failed to add course";
-            if (pxy.addCourse(txtCourseName.Text, ddlSelectInstructor.SelectedItem, apikey) == true)
+            lblTag.Text = "Failed to add course";
+            if (pxy.addCourse(txtCourseName.Text, Convert.ToInt32(ddlSelectInstructor.SelectedItem.Value),txtCourseCode.Text, apikey) == true)
             {
                 lblTag.Text = "Successfully added course";
             }
-            txtName.Text = "";
-            txtProf.Text = "";
-            gvCourses.Visible = false;
-            gvStudents.Visible = false;
-            gvEmails.Visible = false;*/
+            txtCourseName.Text = "";
+            txtCourseCode.Text = "";
+            lblTag.Visible = true;
         }
+
+        protected void ddlSelectInstructor_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            lblTag.Text = ddlSelectInstructor.SelectedItem.Value;
+        }
+    
     }
 }

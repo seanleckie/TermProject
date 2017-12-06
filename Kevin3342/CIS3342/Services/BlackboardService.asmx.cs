@@ -24,7 +24,7 @@ namespace Services
         Email email = new Email();
 
         [WebMethod]
-        public Boolean addCourse(string name, int builderID, int apiKey)
+        public Boolean addCourse(string name, int builderID, string courseCode, int apiKey)
         {
 
             if (apiKey == API_KEY)
@@ -34,6 +34,7 @@ namespace Services
                 objCommand.CommandText = "BBAddCourse";
                 objCommand.Parameters.AddWithValue("@courseName", name);
                 objCommand.Parameters.AddWithValue("@userID", builderID);
+                objCommand.Parameters.AddWithValue("@courseCode", courseCode);
 
                 if (objDB.DoUpdateUsingCmdObj(objCommand) != -1)
                 {
@@ -53,7 +54,7 @@ namespace Services
             {
                 SqlCommand objCommand = new SqlCommand();
                 objCommand.CommandType = CommandType.StoredProcedure;
-                objCommand.CommandText = "TermGetCourses";
+                objCommand.CommandText = "BBGetCourses";
                 ds = objDB.GetDataSetUsingCmdObj(objCommand);
 
             }
@@ -215,11 +216,10 @@ namespace Services
         }
 
         [WebMethod]
-        public string getBuilderID(string builderName, int apiKey)
+        public DataSet getBuilderID(string builderName, int apiKey)
         {
             DataSet ds = null;
-            int i = 0;
-            string z = "";
+
 
             if (apiKey == API_KEY)
             {
@@ -228,9 +228,8 @@ namespace Services
                 objCommand.CommandText = "BBGetBuilderID";
                 objCommand.Parameters.AddWithValue("@userName", builderName);
                 ds = objDB.GetDataSetUsingCmdObj(objCommand);
-                z = ds.Tables[0].Rows[0].ToString();
             }
-            return z;
+            return ds;
         }
 
         [WebMethod]
