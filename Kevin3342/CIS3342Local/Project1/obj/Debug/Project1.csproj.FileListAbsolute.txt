@@ -1,0 +1,60 @@
+G:\CIS3342\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+G:\CIS3342\Project1\bin\roslyn\csc.exe
+G:\CIS3342\Project1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\CIS3342\Project1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\CIS3342\Project1\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\CIS3342\Project1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\CIS3342\Project1\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\CIS3342\Project1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\CIS3342\Project1\bin\roslyn\System.Collections.Immutable.dll
+G:\CIS3342\Project1\bin\roslyn\System.Reflection.Metadata.dll
+G:\CIS3342\Project1\bin\roslyn\vbc.exe
+G:\CIS3342\Project1\bin\roslyn\VBCSCompiler.exe
+G:\CIS3342\Project1\bin\roslyn\VBCSCompiler.exe.config
+G:\CIS3342\Project1\bin\Project1.dll.config
+G:\CIS3342\Project1\bin\Project1.dll
+G:\CIS3342\Project1\bin\Project1.pdb
+G:\CIS3342\Project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\CIS3342\Project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\CIS3342\Project1\obj\Debug\Project1.dll
+G:\CIS3342\Project1\obj\Debug\Project1.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\csc.exe
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\vbc.exe
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\VBCSCompiler.exe
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\Project1.dll.config
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\Project1.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\Project1.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\obj\Debug\Project1.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project1)\CIS3342\Project1\obj\Debug\Project1.pdb
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\csc.exe
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\System.Collections.Immutable.dll
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\System.Reflection.Metadata.dll
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\vbc.exe
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\VBCSCompiler.exe
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\roslyn\VBCSCompiler.exe.config
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\Project1.dll.config
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\Project1.dll
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\Project1.pdb
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\obj\Debug\Project1.dll
+G:\CIS3342\CIS3342(Project1)\CIS3342\Project1\obj\Debug\Project1.pdb

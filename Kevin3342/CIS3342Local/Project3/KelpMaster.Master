@@ -1,0 +1,119 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="KelpMaster.master.cs" Inherits="Project3.KelpMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="Content/bootstrap.min.css" />
+    <link rel="stylesheet" href="Content/bootstrap-theme.min.css" />
+    <link href="Content/bootstrap-datetimepicker.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: #717171">
+    <form id="form1" runat="server">
+        <div class="container-fluid">
+            <nav class="navbar nav">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand pull-left" href="login.aspx">
+                            <h3 style="color: darkgreen;">Kelp</h3>
+                        </a>
+                    </div>
+                    <div class="collapse navbar-collapse" id="myNavbar">
+                        <ul class="nav navbar-nav">
+                            <li><a href="kelp_main.aspx" style="color: darkgreen">Search Restaurants</a></li>
+                        </ul>
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="login.aspx"><span class="glyphicon glyphicon-log-in"></span>Logout</a></li>
+                        </ul>
+                    </div>
+
+
+                </div>
+            </nav>
+            <div>
+                <asp:ContentPlaceHolder ID="KelpMainContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div>
+                <asp:ContentPlaceHolder ID="AddReservationContent" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </div>
+            <div>
+                <asp:ContentPlaceHolder ID="RestaurantDetailsContent" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </div>
+            <div>
+                <asp:ContentPlaceHolder ID="AddRestaurantContent" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </div>
+            <div>
+                 <asp:ContentPlaceHolder ID="AddReviewContent" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </div>
+            <div>
+                 <asp:ContentPlaceHolder ID="ManageReservationsContent" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </div>
+            <div>
+                 <asp:ContentPlaceHolder ID="ManageRestaurantsContent" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </div>
+            <div>
+                 <asp:ContentPlaceHolder ID="MyReservationsContent" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </div>
+            <div>
+                <asp:ContentPlaceHolder ID="MyReviewsContent" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </div>
+
+        </div>
+
+
+
+
+
+
+
+    </form>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="Scripts/moment-with-locales.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/bootstrap-datetimepicker.min.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#datePicker').datetimepicker({
+                format: 'MM/DD/YYYY'
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        $(function () {
+            $('#timePicker').datetimepicker({
+                format: 'LT',
+                stepping: 15
+            });
+        });
+    </script>
+</body>
+</html>

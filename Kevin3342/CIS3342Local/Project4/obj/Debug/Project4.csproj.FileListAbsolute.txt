@@ -1,0 +1,120 @@
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\roslyn\csc.exe
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\roslyn\vbc.exe
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\roslyn\VBCSCompiler.exe
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\Project4.dll.config
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\Project4.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\Project4.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\Utilities.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\Utilities.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\obj\Debug\Project4.csprojResolveAssemblyReference.cache
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\obj\Debug\Project4.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\obj\Debug\Project4.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\CreditCardLibrary.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Project4\bin\CreditCardLibrary.pdb
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\roslyn\csc.exe
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\roslyn\vbc.exe
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\roslyn\VBCSCompiler.exe
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\Project4.dll.config
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\Project4.dll
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\Project4.pdb
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\CreditCardLibrary.dll
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\Utilities.dll
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\CreditCardLibrary.pdb
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\Utilities.pdb
+C:\Users\tuf93284\Downloads\CIS3342\Project4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tuf93284\Downloads\CIS3342\Project4\obj\Debug\Project4.csprojResolveAssemblyReference.cache
+C:\Users\tuf93284\Downloads\CIS3342\Project4\obj\Debug\Project4.dll
+C:\Users\tuf93284\Downloads\CIS3342\Project4\obj\Debug\Project4.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\roslyn\csc.exe
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\roslyn\vbc.exe
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\roslyn\VBCSCompiler.exe
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\Project4.dll.config
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\Project4.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\Project4.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\CreditCardLibrary.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\Utilities.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\CreditCardLibrary.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\Utilities.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\obj\Debug\Project4.csprojResolveAssemblyReference.cache
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\obj\Debug\Project4.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Project4\obj\Debug\Project4.pdb
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\roslyn\csc.exe
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\roslyn\vbc.exe
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\roslyn\VBCSCompiler.exe
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\Project4.dll.config
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\Project4.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\Project4.pdb
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\CreditCardLibrary.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\Utilities.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\CreditCardLibrary.pdb
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\Utilities.pdb
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\obj\Debug\Project4.csprojResolveAssemblyReference.cache
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\obj\Debug\Project4.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Project4\obj\Debug\Project4.pdb
+E:\CIS3342Local\Project4\bin\roslyn\csc.exe
+E:\CIS3342Local\Project4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CIS3342Local\Project4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CIS3342Local\Project4\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CIS3342Local\Project4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CIS3342Local\Project4\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CIS3342Local\Project4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CIS3342Local\Project4\bin\roslyn\System.Collections.Immutable.dll
+E:\CIS3342Local\Project4\bin\roslyn\System.Reflection.Metadata.dll
+E:\CIS3342Local\Project4\bin\roslyn\vbc.exe
+E:\CIS3342Local\Project4\bin\roslyn\VBCSCompiler.exe
+E:\CIS3342Local\Project4\bin\roslyn\VBCSCompiler.exe.config
+E:\CIS3342Local\Project4\bin\Project4.dll.config
+E:\CIS3342Local\Project4\bin\Project4.dll
+E:\CIS3342Local\Project4\bin\Project4.pdb
+E:\CIS3342Local\Project4\bin\CreditCardLibrary.dll
+E:\CIS3342Local\Project4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CIS3342Local\Project4\bin\Utilities.dll
+E:\CIS3342Local\Project4\bin\CreditCardLibrary.pdb
+E:\CIS3342Local\Project4\bin\Utilities.pdb
+E:\CIS3342Local\Project4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CIS3342Local\Project4\obj\Debug\Project4.csprojResolveAssemblyReference.cache
+E:\CIS3342Local\Project4\obj\Debug\Project4.dll
+E:\CIS3342Local\Project4\obj\Debug\Project4.pdb

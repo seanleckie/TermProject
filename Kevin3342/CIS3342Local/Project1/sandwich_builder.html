@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Kevin's Sandwich Builder</title>
+	<meta charset="utf-8" />
+
+    <!--validation script for name and phone-->
+    <script type="text/javascript" lang="javascript">
+        function ValidateForm() {
+            var strName;
+            var strPhone;
+            var strTip;
+
+            strName = document.getElementById("txtName").value;
+            strPhone = document.getElementById("txtPhone").value;
+
+            if (strName == "" || strPhone == "") {
+                 // check if user entered a name and phone
+                alert("You must enter a name and phone number before submitting the form!");
+            //} else if (is) {
+
+            //    alert("You must enter only numbers for a tip.");
+            }
+            else {
+                // submit the form for server processing
+                document.getElementById("frmSandwichBuilder").submit();
+            }
+        }
+    </script>
+
+</head>
+<body>
+    <h1>Kevin's Sandwich Builder </h1>
+
+    <form id="frmSandwichBuilder"  method="post"  action="SandwichControl.aspx">
+
+        Enter your name: <br />
+        <input type="text" id="txtName" name="txtName" /> <br />
+        Enter your phone number: <br />
+        <input type="text" id="txtPhone" name="txtPhone" /> <br /><br />
+
+        Select a sandwich size: <br />
+        <select id="selectSize" name="selectSize">
+            <option value="small">Small</option>
+            <option value="medium">Medium</option>
+            <option value="large">Large</option>
+        </select> <br /><br />
+
+        What type of sandwich?<br />
+        <select id="selectType" name="selectType">
+            <option value="italian">Italian</option>
+            <option value="ham and cheese">Ham and Cheese</option>
+            <option value="turkey club">Turkey Club</option>
+            <option value="chicken salad">Chicken Salad</option>
+            <option value="tuna salad">Tuna Salad</option>
+            <option value="cheese steak">Cheese Steak</option>
+        </select> <br /><br />
+
+        Select your cheese:<br />
+        <select id="selectCheese" name="selectCheese">
+            <option value="american">American</option>
+            <option value="provolone">Provolone</option>
+            <option value="pepperjack">Pepperjack</option>
+            <option value="swiss">Swiss</option>
+            <option value="no cheese">No Cheese</option>
+        </select> <br /><br />
+
+        Would you like your sandwich toasted? <br />
+        <input type="radio" name="isToasted" id="isToasted" value="toasted" checked> Toasted<br>
+        <input type="radio" name="isToasted" id="isToasted" value="untoasted"> Not Toasted<br><br />
+
+        Select toppings: <br />
+        <input type="checkbox" name="chkLettuce" id="chkLettuce" value="lettuce">Lettuce
+        <input type="checkbox" name="chkTomato" id="chkTomato" value="tomato">Tomato <br />
+        <input type="checkbox" name="chkOnions" id="chkOnions" value="onions">Onions
+        <input type="checkbox" name="chkPickles" id="chkPickles" value="pickles">Pickles
+        <input type="checkbox" name="chkSweetPeppers" id="chkSweetPeppers" value="sweet peppers">Sweet Peppers <br />
+        <input type="checkbox" name="chkJalepenos" id="chkJalapenos" value="jalapenos">Jalapenos <br /><br />
+
+        Select additional premium toppings: (+ 1.00 each)<br />
+        <input type="checkbox" name="chkBacon" id="chkBacon" value="bacon">Bacon
+        <input type="checkbox" name="chkExtraMeat" id="chkExtraMeat" value="extra meat">Extra Meat <br />
+        <input type="checkbox" name="chkExtraCheese" id="chkExtraCheese" value="extra cheese">Extra Cheese
+        <input type="checkbox" name="chkAvocado" id="chkAvocado" value="avocado">Avocado <br />
+        <input type="checkbox" name="chkGuacamole" id="chkGuacamole" value="guacamole">Guacamole <br /><br />
+
+        Please select the sauces you would like:<br />
+        <input type="checkbox" name="chkMayo" id="chkMayo" value="mayonnaise">Mayonnaise
+        <input type="checkbox" name="chkBbq" id="chkBbq" value="bbq">BBQ 
+        <input type="checkbox" name="chkKetchup" id="chkKetchup" value="ketchup">Ketchup <br />
+        <input type="checkbox" name="chkSriracha" id="chkSriracha" value="sriracha">Sriracha
+        <input type="checkbox" name="chkChipotle" id="chkChipotle" value="chipotle">Chipotle
+        <input type="checkbox" name="chkMustard" id="chkMustard" value="mustard">Mustard <br /><br />
+
+        Would you like to make it a meal combo?
+        <select id="selectMeal" name="selectMeal">
+            <option value="drink and chips combo">Drink + Chips</option>
+            <option value="drink and cookie combo">Drink + Cookie</option>
+            <option value="drink and apple combo">Drink + Apple</option>
+            <option value="no combo">No Combo</option>
+        </select> <br /><br />
+
+        <br />
+        
+        Sandwich Artist Tip: (leave blank for no tip) <br />
+        <input type="text" id="txtTip" name="txtTip"/> <br />
+
+        <input type="button" id="btnSubmit" name="btnSubmit" value="Purchase Sandwich" onclick="ValidateForm()">
+
+
+    </form>
+    
+    
+
+</body>
+</html>

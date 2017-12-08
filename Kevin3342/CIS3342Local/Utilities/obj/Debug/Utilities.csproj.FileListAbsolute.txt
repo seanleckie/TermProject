@@ -1,0 +1,80 @@
+G:\CIS3342\CIS3342(Project1)\CIS3342\Utilities\bin\Debug\Utilities.dll
+G:\CIS3342\CIS3342(Project1)\CIS3342\Utilities\bin\Debug\Utilities.pdb
+G:\CIS3342\CIS3342(Project1)\CIS3342\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+G:\CIS3342\CIS3342(Project1)\CIS3342\Utilities\obj\Debug\Utilities.dll
+G:\CIS3342\CIS3342(Project1)\CIS3342\Utilities\obj\Debug\Utilities.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project1)\CIS3342\Utilities\bin\Debug\Utilities.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project1)\CIS3342\Utilities\bin\Debug\Utilities.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project1)\CIS3342\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project1)\CIS3342\Utilities\obj\Debug\Utilities.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project1)\CIS3342\Utilities\obj\Debug\Utilities.pdb
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\bin\Debug\Utilities.dll
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\bin\Debug\Utilities.pdb
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\obj\Debug\Utilities.dll
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\obj\Debug\Utilities.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\bin\Debug\Utilities.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\bin\Debug\Utilities.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\obj\Debug\Utilities.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\obj\Debug\Utilities.pdb
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\bin\Debug\Utilities.dll
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\bin\Debug\Utilities.pdb
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\obj\Debug\Utilities.dll
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(Project2)\CIS3342(Project2)\CIS3342\Utilities\obj\Debug\Utilities.pdb
+G:\CIS3342\CIS3342(Project2)\CIS3342\Utilities\bin\Debug\Utilities.dll
+G:\CIS3342\CIS3342(Project2)\CIS3342\Utilities\bin\Debug\Utilities.pdb
+G:\CIS3342\CIS3342(Project2)\CIS3342\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+G:\CIS3342\CIS3342(Project2)\CIS3342\Utilities\obj\Debug\Utilities.dll
+G:\CIS3342\CIS3342(Project2)\CIS3342\Utilities\obj\Debug\Utilities.pdb
+C:\Users\tuf93284\Downloads\CIS3342\Utilities\bin\Debug\Utilities.dll
+C:\Users\tuf93284\Downloads\CIS3342\Utilities\bin\Debug\Utilities.pdb
+C:\Users\tuf93284\Downloads\CIS3342\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\tuf93284\Downloads\CIS3342\Utilities\obj\Debug\Utilities.dll
+C:\Users\tuf93284\Downloads\CIS3342\Utilities\obj\Debug\Utilities.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Utilities\bin\Debug\Utilities.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Utilities\bin\Debug\Utilities.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Utilities\obj\Debug\Utilities.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project3)(1)\CIS3342\Utilities\obj\Debug\Utilities.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Utilities\bin\Debug\Utilities.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Utilities\bin\Debug\Utilities.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Utilities\obj\Debug\Utilities.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(Project4)\CIS3342\Utilities\obj\Debug\Utilities.pdb
+C:\Users\KC\Downloads\CIS3342(TermProjectPt1)\CIS3342\Utilities\bin\Debug\Utilities.dll
+C:\Users\KC\Downloads\CIS3342(TermProjectPt1)\CIS3342\Utilities\bin\Debug\Utilities.pdb
+C:\Users\KC\Downloads\CIS3342(TermProjectPt1)\CIS3342\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\KC\Downloads\CIS3342(TermProjectPt1)\CIS3342\Utilities\obj\Debug\Utilities.dll
+C:\Users\KC\Downloads\CIS3342(TermProjectPt1)\CIS3342\Utilities\obj\Debug\Utilities.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(TermProjectPt1)\CIS3342\Utilities\bin\Debug\Utilities.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(TermProjectPt1)\CIS3342\Utilities\bin\Debug\Utilities.pdb
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(TermProjectPt1)\CIS3342\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(TermProjectPt1)\CIS3342\Utilities\obj\Debug\Utilities.dll
+C:\Users\KC\Documents\Visual Studio 2015\Projects\CIS3342(TermProjectPt1)\CIS3342\Utilities\obj\Debug\Utilities.pdb
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(TermProjectPt1)\CIS3342\Utilities\bin\Debug\Utilities.dll
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(TermProjectPt1)\CIS3342\Utilities\bin\Debug\Utilities.pdb
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(TermProjectPt1)\CIS3342\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(TermProjectPt1)\CIS3342\Utilities\obj\Debug\Utilities.dll
+C:\Users\tuf93284\Documents\Visual Studio 2015\Projects\CIS3342(TermProjectPt1)\CIS3342\Utilities\obj\Debug\Utilities.pdb
+D:\CIS3342(TermProjectPt1)\CIS3342\Utilities\bin\Debug\Utilities.dll
+D:\CIS3342(TermProjectPt1)\CIS3342\Utilities\bin\Debug\Utilities.pdb
+D:\CIS3342(TermProjectPt1)\CIS3342\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\CIS3342(TermProjectPt1)\CIS3342\Utilities\obj\Debug\Utilities.dll
+D:\CIS3342(TermProjectPt1)\CIS3342\Utilities\obj\Debug\Utilities.pdb
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Utilities\bin\Debug\Utilities.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Utilities\bin\Debug\Utilities.pdb
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Utilities\obj\Debug\Utilities.dll
+C:\Users\tud16578\Downloads\CIS3342(TermProjectPt3)\CIS3342\Utilities\obj\Debug\Utilities.pdb
+E:\CIS3342Local\Utilities\bin\Debug\Utilities.dll
+E:\CIS3342Local\Utilities\bin\Debug\Utilities.pdb
+E:\CIS3342Local\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\CIS3342Local\Utilities\obj\Debug\Utilities.dll
+E:\CIS3342Local\Utilities\obj\Debug\Utilities.pdb
+D:\CIS3342Local\Utilities\bin\Debug\Utilities.dll
+D:\CIS3342Local\Utilities\bin\Debug\Utilities.pdb
+D:\CIS3342Local\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\CIS3342Local\Utilities\obj\Debug\Utilities.dll
+D:\CIS3342Local\Utilities\obj\Debug\Utilities.pdb
